@@ -1,63 +1,11 @@
-﻿Build started 16/02/2016 06:44:53.
-     1>Project "K:\Components\Library\JPEG\libjpeg\dll\jpeg_dll.vcxproj" on node 2 (build target(s)).
+﻿Build started 14/06/2016 14:51:21.
+     1>Project "K:\Components\LibraryV2\JPEG\libjpeg\dll\jpeg_dll.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Creating "x86\Debug\jpeg_dll.unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x86\Debug\jpeg_dll.unsuccessfulbuild".
        ClCompile:
          All outputs are up-to-date.
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W1 /WX- /Od /Oy- /D _WINDLL /D _MBCS /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x86\Debug\\" /Fd"x86\Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\libjpeg-sr9b\jaricom.c" "..\..\libjpeg-sr9b\jcapimin.c" "..\..\libjpeg-sr9b\jcapistd.c" "..\..\libjpeg-sr9b\jcarith.c" "..\..\libjpeg-sr9b\jccoefct.c" "..\..\libjpeg-sr9b\jccolor.c" "..\..\libjpeg-sr9b\jcdctmgr.c" "..\..\libjpeg-sr9b\jchuff.c" "..\..\libjpeg-sr9b\jcinit.c" "..\..\libjpeg-sr9b\jcmainct.c" "..\..\libjpeg-sr9b\jcmarker.c" "..\..\libjpeg-sr9b\jcmaster.c" "..\..\libjpeg-sr9b\jcomapi.c" "..\..\libjpeg-sr9b\jcparam.c" "..\..\libjpeg-sr9b\jcprepct.c" "..\..\libjpeg-sr9b\jcsample.c" "..\..\libjpeg-sr9b\jctrans.c" "..\..\libjpeg-sr9b\jdapimin.c" "..\..\libjpeg-sr9b\jdapistd.c" "..\..\libjpeg-sr9b\jdarith.c" "..\..\libjpeg-sr9b\jdatadst.c" "..\..\libjpeg-sr9b\jdatasrc.c" "..\..\libjpeg-sr9b\jdcoefct.c" "..\..\libjpeg-sr9b\jdcolor.c" "..\..\libjpeg-sr9b\jddctmgr.c" "..\..\libjpeg-sr9b\jdhuff.c" "..\..\libjpeg-sr9b\jdinput.c" "..\..\libjpeg-sr9b\jdmainct.c" "..\..\libjpeg-sr9b\jdmarker.c" "..\..\libjpeg-sr9b\jdmaster.c" "..\..\libjpeg-sr9b\jdmerge.c" "..\..\libjpeg-sr9b\jdpostct.c" "..\..\libjpeg-sr9b\jdsample.c" "..\..\libjpeg-sr9b\jdtrans.c" "..\..\libjpeg-sr9b\jerror.c" "..\..\libjpeg-sr9b\jfdctflt.c" "..\..\libjpeg-sr9b\jfdctfst.c" "..\..\libjpeg-sr9b\jfdctint.c" "..\..\libjpeg-sr9b\jidctflt.c" "..\..\libjpeg-sr9b\jidctfst.c" "..\..\libjpeg-sr9b\jidctint.c" "..\..\libjpeg-sr9b\jmemmgr.c" "..\..\libjpeg-sr9b\jmemnobs.c" "..\..\libjpeg-sr9b\jquant1.c" "..\..\libjpeg-sr9b\jquant2.c" "..\..\libjpeg-sr9b\jutils.c"
-         jaricom.c
-         jcapimin.c
-         jcapistd.c
-         jcarith.c
-         jccoefct.c
-         jccolor.c
-         jcdctmgr.c
-         jchuff.c
-         jcinit.c
-         jcmainct.c
-         jcmarker.c
-         jcmaster.c
-         jcomapi.c
-         jcparam.c
-         jcprepct.c
-         jcsample.c
-         jctrans.c
-         jdapimin.c
-         jdapistd.c
-         jdarith.c
-         Generating Code...
-         Compiling...
-         jdatadst.c
-         jdatasrc.c
-         jdcoefct.c
-         jdcolor.c
-         jddctmgr.c
-         jdhuff.c
-         jdinput.c
-         jdmainct.c
-         jdmarker.c
-         jdmaster.c
-         jdmerge.c
-         jdpostct.c
-         jdsample.c
-         jdtrans.c
-         jerror.c
-         jfdctflt.c
-         jfdctfst.c
-         jfdctint.c
-         jidctflt.c
-         jidctfst.c
-         Generating Code...
-         Compiling...
-         jidctint.c
-         jmemmgr.c
-         jmemnobs.c
-         jquant1.c
-         jquant2.c
-         jutils.c
-         Generating Code...
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x86\Debug\jpeg_dll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.lib" /MACHINE:X86 /DLL x86\Debug\jaricom.obj
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x86\Debug\jpeg_dll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.lib" /MACHINE:X86 /DLL x86\Debug\jaricom.obj
          x86\Debug\jcapimin.obj
          x86\Debug\jcapistd.obj
          x86\Debug\jcarith.obj
@@ -103,18 +51,18 @@
          x86\Debug\jquant1.obj
          x86\Debug\jquant2.obj
          x86\Debug\jutils.obj
-         jpeg_dll.vcxproj -> K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll
+         jpeg_dll.vcxproj -> K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll;#2" /manifest x86\Debug\jpeg_dll.dll.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll;#2" /manifest x86\Debug\jpeg_dll.dll.intermediate.manifest
        PostBuildEvent:
-         copy K:\Components\Library\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll K:\Components\Library\TIFF\libtiff\binaries\dll\x86\Debug\jpeg-sr9b.dll
+         copy K:\Components\LibraryV2\JPEG\libjpeg\dll\x86\Debug\jpeg_dll.dll K:\Components\LibraryV2\JPEG\libjpeg\binaries\dll\x86\Debug\jpeg-sr9b.dll
          :VCEnd
                  1 fichier(s) copié(s).
        FinalizeBuildStatus:
          Deleting file "x86\Debug\jpeg_dll.unsuccessfulbuild".
          Touching "x86\Debug\jpeg_dll.lastbuildstate".
-     1>Done Building Project "K:\Components\Library\JPEG\libjpeg\dll\jpeg_dll.vcxproj" (build target(s)).
+     1>Done Building Project "K:\Components\LibraryV2\JPEG\libjpeg\dll\jpeg_dll.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.98
+Time Elapsed 00:00:00.72

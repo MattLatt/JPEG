@@ -1,21 +1,66 @@
-﻿La génération a démarré 01/03/2016 12:38:31.
-     1>Projet "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" sur le nœud 2 (build cible(s)).
+﻿Build started 14/06/2016 14:51:13.
+     1>Project "K:\Components\LibraryV2\JPEG\libjpeg\lib\jpeg_lib.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Création de "x86\Debug\jpeg_lib.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+         Touching "x86\Debug\jpeg_lib.unsuccessfulbuild".
        ClCompile:
-         Toutes les sorties sont à jour.
+         All outputs are up-to-date.
        Lib:
-         Toutes les sorties sont à jour.
-         jpeg_lib.vcxproj -> K:\Components\Library\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"K:\Components\LibraryV2\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib" /NOLOGO x86\Debug\jaricom.obj
+         x86\Debug\jcapimin.obj
+         x86\Debug\jcapistd.obj
+         x86\Debug\jcarith.obj
+         x86\Debug\jccoefct.obj
+         x86\Debug\jccolor.obj
+         x86\Debug\jcdctmgr.obj
+         x86\Debug\jchuff.obj
+         x86\Debug\jcinit.obj
+         x86\Debug\jcmainct.obj
+         x86\Debug\jcmarker.obj
+         x86\Debug\jcmaster.obj
+         x86\Debug\jcomapi.obj
+         x86\Debug\jcparam.obj
+         x86\Debug\jcprepct.obj
+         x86\Debug\jcsample.obj
+         x86\Debug\jctrans.obj
+         x86\Debug\jdapimin.obj
+         x86\Debug\jdapistd.obj
+         x86\Debug\jdarith.obj
+         x86\Debug\jdatadst.obj
+         x86\Debug\jdatasrc.obj
+         x86\Debug\jdcoefct.obj
+         x86\Debug\jdcolor.obj
+         x86\Debug\jddctmgr.obj
+         x86\Debug\jdhuff.obj
+         x86\Debug\jdinput.obj
+         x86\Debug\jdmainct.obj
+         x86\Debug\jdmarker.obj
+         x86\Debug\jdmaster.obj
+         x86\Debug\jdmerge.obj
+         x86\Debug\jdpostct.obj
+         x86\Debug\jdsample.obj
+         x86\Debug\jdtrans.obj
+         x86\Debug\jerror.obj
+         x86\Debug\jfdctflt.obj
+         x86\Debug\jfdctfst.obj
+         x86\Debug\jfdctint.obj
+         x86\Debug\jidctflt.obj
+         x86\Debug\jidctfst.obj
+         x86\Debug\jidctint.obj
+         x86\Debug\jmemmgr.obj
+         x86\Debug\jmemnobs.obj
+         x86\Debug\jquant1.obj
+         x86\Debug\jquant2.obj
+         x86\Debug\jutils.obj
+         jpeg_lib.vcxproj -> K:\Components\LibraryV2\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib
        PostBuildEvent:
-         copy K:\Components\Library\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib K:\###BACK_HDD_D\###Work\###DEV\LasIntensityFromRGB\binaries\lib\x86\Debug\jpeg-sr9b.lib
+         copy K:\Components\LibraryV2\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib K:\Components\LibraryV2\JPEG\libjpeg\binaries\lib\x86\Debug\jpeg-sr9b.lib
          :VCEnd
                  1 fichier(s) copié(s).
        FinalizeBuildStatus:
-         Suppression du fichier "x86\Debug\jpeg_lib.unsuccessfulbuild".
-         Mise à jour de l'horodatage "x86\Debug\jpeg_lib.lastbuildstate".
-     1>Génération du projet "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" terminée (build cible(s)).
+         Deleting file "x86\Debug\jpeg_lib.unsuccessfulbuild".
+         Touching "x86\Debug\jpeg_lib.lastbuildstate".
+     1>Done Building Project "K:\Components\LibraryV2\JPEG\libjpeg\lib\jpeg_lib.vcxproj" (build target(s)).
 
-La génération a réussi.
+Build succeeded.
 
-Temps écoulé 00:00:00.28
+Time Elapsed 00:00:00.29
