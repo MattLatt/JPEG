@@ -1,9 +1,5 @@
 # JPEG
-<<<<<<< HEAD
-This repository is a simple encapsulation of the libjpeg 9b ( from http://www.ijg.org/ ) in a Visual Studio 2010 solution.
-=======
 This repository is a simple encapsulation of the libjpeg 9b (downloaded from http://www.ijg.org/ ) in a Visual Studio 2010 solution.
->>>>>>> origin/master
 In that solution, there is 2 workspaces, one for a Dynamic Library and one for a Static Library. Each one as a Debug and Release
 configuration for both x86 and x64 architectures.
 
