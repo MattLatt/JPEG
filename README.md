@@ -3,7 +3,7 @@ This repository is a simple encapsulation of the libjpeg 9b (downloaded from htt
 In that solution, there is 2 workspaces, one for a Dynamic Library and one for a Static Library. Each one as a Debug and Release
 configuration for both x86 and x64 architectures.
 
-It contain :
+The repository contain :
   - the zip archive "jpegsr9b.zip" downloaded from http://www.ijg.org/files/jpegsr9b.zip
   - the folder "libjpeg-sr9b" where the zip archive was unzipped (the folder was renamed libjpeg-sr9b)
     In this folder the file jconfig.vc was renamed into jconfig.h in order to compile with Microsoft VC
