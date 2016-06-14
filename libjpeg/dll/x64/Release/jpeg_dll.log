@@ -1,0 +1,22 @@
+﻿Build started 16/02/2016 06:44:50.
+     1>Project "K:\Components\Library\JPEG\libjpeg\dll\jpeg_dll.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\jpeg_dll.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         jpeg_dll.vcxproj -> K:\Components\Library\JPEG\libjpeg\dll\x64\Release\jpeg_dll.dll
+       PostBuildEvent:
+         copy K:\Components\Library\JPEG\libjpeg\dll\x64\Release\jpeg_dll.dll K:\Components\Library\TIFF\libtiff\binaries\dll\x64\Release\jpeg-sr9b.dll
+         :VCEnd
+                 1 fichier(s) copié(s).
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\jpeg_dll.unsuccessfulbuild".
+         Touching "x64\Release\jpeg_dll.lastbuildstate".
+     1>Done Building Project "K:\Components\Library\JPEG\libjpeg\dll\jpeg_dll.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18

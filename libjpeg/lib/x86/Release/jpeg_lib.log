@@ -1,0 +1,115 @@
+﻿Build started 01/03/2016 08:07:38.
+     1>Project "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x86\Release\jpeg_lib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x86\Release\\" /Fd"x86\Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\libjpeg-sr9b\jaricom.c" "..\..\libjpeg-sr9b\jcapimin.c" "..\..\libjpeg-sr9b\jcapistd.c" "..\..\libjpeg-sr9b\jcarith.c" "..\..\libjpeg-sr9b\jccoefct.c" "..\..\libjpeg-sr9b\jccolor.c" "..\..\libjpeg-sr9b\jcdctmgr.c" "..\..\libjpeg-sr9b\jchuff.c" "..\..\libjpeg-sr9b\jcinit.c" "..\..\libjpeg-sr9b\jcmainct.c" "..\..\libjpeg-sr9b\jcmarker.c" "..\..\libjpeg-sr9b\jcmaster.c" "..\..\libjpeg-sr9b\jcomapi.c" "..\..\libjpeg-sr9b\jcparam.c" "..\..\libjpeg-sr9b\jcprepct.c" "..\..\libjpeg-sr9b\jcsample.c" "..\..\libjpeg-sr9b\jctrans.c" "..\..\libjpeg-sr9b\jdapimin.c" "..\..\libjpeg-sr9b\jdapistd.c" "..\..\libjpeg-sr9b\jdarith.c" "..\..\libjpeg-sr9b\jdatadst.c" "..\..\libjpeg-sr9b\jdatasrc.c" "..\..\libjpeg-sr9b\jdcoefct.c" "..\..\libjpeg-sr9b\jdcolor.c" "..\..\libjpeg-sr9b\jddctmgr.c" "..\..\libjpeg-sr9b\jdhuff.c" "..\..\libjpeg-sr9b\jdinput.c" "..\..\libjpeg-sr9b\jdmainct.c" "..\..\libjpeg-sr9b\jdmarker.c" "..\..\libjpeg-sr9b\jdmaster.c" "..\..\libjpeg-sr9b\jdmerge.c" "..\..\libjpeg-sr9b\jdpostct.c" "..\..\libjpeg-sr9b\jdsample.c" "..\..\libjpeg-sr9b\jdtrans.c" "..\..\libjpeg-sr9b\jerror.c" "..\..\libjpeg-sr9b\jfdctflt.c" "..\..\libjpeg-sr9b\jfdctfst.c" "..\..\libjpeg-sr9b\jfdctint.c" "..\..\libjpeg-sr9b\jidctflt.c" "..\..\libjpeg-sr9b\jidctfst.c" "..\..\libjpeg-sr9b\jidctint.c" "..\..\libjpeg-sr9b\jmemmgr.c" "..\..\libjpeg-sr9b\jmemnobs.c" "..\..\libjpeg-sr9b\jquant1.c" "..\..\libjpeg-sr9b\jutils.c"
+         jaricom.c
+         jcapimin.c
+         jcapistd.c
+         jcarith.c
+         jccoefct.c
+         jccolor.c
+         jcdctmgr.c
+         jchuff.c
+         jcinit.c
+         jcmainct.c
+         jcmarker.c
+         jcmaster.c
+         jcomapi.c
+         jcparam.c
+         jcprepct.c
+         jcsample.c
+         jctrans.c
+         jdapimin.c
+         jdapistd.c
+         jdarith.c
+         Compiling...
+         jdatadst.c
+         jdatasrc.c
+         jdcoefct.c
+         jdcolor.c
+         jddctmgr.c
+         jdhuff.c
+         jdinput.c
+         jdmainct.c
+         jdmarker.c
+         jdmaster.c
+         jdmerge.c
+         jdpostct.c
+         jdsample.c
+         jdtrans.c
+         jerror.c
+         jfdctflt.c
+         jfdctfst.c
+         jfdctint.c
+         jidctflt.c
+         jidctfst.c
+         Compiling...
+         jidctint.c
+         jmemmgr.c
+         jmemnobs.c
+         jquant1.c
+         jutils.c
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /MD /GS- /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x86\Release\\" /Fd"x86\Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "..\..\libjpeg-sr9b\jquant2.c"
+         jquant2.c
+       Lib:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"K:\Components\Library\JPEG\libjpeg\lib\x86\Release\jpeg_lib.lib" /NOLOGO /LTCG x86\Release\jaricom.obj
+         x86\Release\jcapimin.obj
+         x86\Release\jcapistd.obj
+         x86\Release\jcarith.obj
+         x86\Release\jccoefct.obj
+         x86\Release\jccolor.obj
+         x86\Release\jcdctmgr.obj
+         x86\Release\jchuff.obj
+         x86\Release\jcinit.obj
+         x86\Release\jcmainct.obj
+         x86\Release\jcmarker.obj
+         x86\Release\jcmaster.obj
+         x86\Release\jcomapi.obj
+         x86\Release\jcparam.obj
+         x86\Release\jcprepct.obj
+         x86\Release\jcsample.obj
+         x86\Release\jctrans.obj
+         x86\Release\jdapimin.obj
+         x86\Release\jdapistd.obj
+         x86\Release\jdarith.obj
+         x86\Release\jdatadst.obj
+         x86\Release\jdatasrc.obj
+         x86\Release\jdcoefct.obj
+         x86\Release\jdcolor.obj
+         x86\Release\jddctmgr.obj
+         x86\Release\jdhuff.obj
+         x86\Release\jdinput.obj
+         x86\Release\jdmainct.obj
+         x86\Release\jdmarker.obj
+         x86\Release\jdmaster.obj
+         x86\Release\jdmerge.obj
+         x86\Release\jdpostct.obj
+         x86\Release\jdsample.obj
+         x86\Release\jdtrans.obj
+         x86\Release\jerror.obj
+         x86\Release\jfdctflt.obj
+         x86\Release\jfdctfst.obj
+         x86\Release\jfdctint.obj
+         x86\Release\jidctflt.obj
+         x86\Release\jidctfst.obj
+         x86\Release\jidctint.obj
+         x86\Release\jmemmgr.obj
+         x86\Release\jmemnobs.obj
+         x86\Release\jquant1.obj
+         x86\Release\jquant2.obj
+         x86\Release\jutils.obj
+         jpeg_lib.vcxproj -> K:\Components\Library\JPEG\libjpeg\lib\x86\Release\jpeg_lib.lib
+       PostBuildEvent:
+         copy K:\Components\Library\JPEG\libjpeg\lib\x86\Release\jpeg_lib.lib K:\###BACK_HDD_D\###Work\###DEV\LasIntensityFromRGB\binaries\lib\x86\Release\jpeg-sr9b.lib
+         :VCEnd
+                 1 fichier(s) copié(s).
+       FinalizeBuildStatus:
+         Deleting file "x86\Release\jpeg_lib.unsuccessfulbuild".
+         Touching "x86\Release\jpeg_lib.lastbuildstate".
+     1>Done Building Project "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.62

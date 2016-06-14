@@ -1,0 +1,9 @@
+﻿Build started 16/02/2016 08:13:14.
+     1>Project "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "x64\Release\jpeg_lib.lastbuildstate".
+     1>Done Building Project "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

@@ -1,0 +1,21 @@
+﻿La génération a démarré 01/03/2016 12:38:31.
+     1>Projet "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "x86\Debug\jpeg_lib.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         Toutes les sorties sont à jour.
+       Lib:
+         Toutes les sorties sont à jour.
+         jpeg_lib.vcxproj -> K:\Components\Library\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib
+       PostBuildEvent:
+         copy K:\Components\Library\JPEG\libjpeg\lib\x86\Debug\jpeg_lib.lib K:\###BACK_HDD_D\###Work\###DEV\LasIntensityFromRGB\binaries\lib\x86\Debug\jpeg-sr9b.lib
+         :VCEnd
+                 1 fichier(s) copié(s).
+       FinalizeBuildStatus:
+         Suppression du fichier "x86\Debug\jpeg_lib.unsuccessfulbuild".
+         Mise à jour de l'horodatage "x86\Debug\jpeg_lib.lastbuildstate".
+     1>Génération du projet "K:\Components\Library\JPEG\libjpeg\lib\jpeg_lib.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.28
