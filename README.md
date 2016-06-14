@@ -5,8 +5,7 @@ configuration for both x86 and x64 architectures.
 
 The repository contain :
   - the zip archive "jpegsr9b.zip" downloaded from http://www.ijg.org/files/jpegsr9b.zip
-  - the folder "libjpeg-sr9b" where the zip archive was unzipped (the choice of the folder name "libjpeg-sr9b" is purely arbitrary)
-    In this folder the file jconfig.vc was renamed into jconfig.h in order to compile with Microsoft VC
+  - the folder "libjpeg-sr9b" where the zip archive was unzipped (the choice of the folder name "libjpeg-sr9b" is purely arbitrary). In this folder the file jconfig.vc was renamed into jconfig.h in order to compile with Microsoft VC
   - the folder "libjpeg" that contain the Visual Studio solution with :
       - a "binaries" folder where all binaries (.lib, .dll) are copied by post-build instructions for each workspace, configuration 
       and architecture.
